@@ -7,3 +7,6 @@ def square_array(array)
   # squared_array
   array.square!
 end
+
+nums = [1, 2, 3, 4]
+square_array(nums)
